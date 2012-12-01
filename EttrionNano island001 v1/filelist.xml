@@ -1,0 +1,6 @@
+<download name="Small island" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="2757936" md5="864d5a9b717e99152006e2e3ad746cc0"/>
+ </files>
+</download>
